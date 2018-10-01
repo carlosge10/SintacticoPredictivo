@@ -1,0 +1,39 @@
+E,E',T,T',F
+id,+,*,(,),$
+E > T E'
+ 
+ 
+E > T E'
+ 
+ 
+ 
+E' > + T E'
+ 
+ 
+E' > epsilon
+E' > epsilon
+T > F T'
+ 
+ 
+T > F T'
+ 
+ 
+ 
+T' > epsilon
+T' > * F T'
+ 
+T' > epsilon
+T' > epsilon
+F > id
+ 
+ 
+F > ( E )
+ 
+ 
+6
+id,id
++, 
+id,id
+*, 
+id,id
+*, 
