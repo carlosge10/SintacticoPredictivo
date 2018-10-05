@@ -1,0 +1,60 @@
+E,T,X,Y
+(,),int,+,*,$
+E > T X
+ 
+E > T X
+ 
+ 
+ 
+T > ( E )
+
+T > int Y
+ 
+ 
+ 
+ 
+X > epsilon
+
+X > + E
+ 
+X > epsilon
+ 
+Y > epsilon
+ 
+Y > epsilon
+Y > * T
+Y > epsilon
+8
+int,int
+*, 
+(, 
+int,a
++, 
+int,b
+), 
+), 
+3
+int,int
++, 
+int,int
+5
+int,int
++, 
+(, 
++, 
+int,int
+6
+int,int
++, 
+int,int
++, 
+int,int
+*, 
+7
+int,a
++, 
+(, 
+int,b
+*, 
+int,var1
+), 
