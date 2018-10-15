@@ -11,7 +11,7 @@ public class ASPRunner {
 		try {
 			File file;
 			BufferedReader br;
-			file = new File("C:\\Users\\CARLOSALFREDOGONZALE\\git\\ASP\\src\\asp\\input.txt");
+			file = new File("src\\asp\\input.txt");
 			br = new BufferedReader(new FileReader(file));
 			LL1Table table = new LL1Table(file, br);
 			TokenList tl = new TokenList(true, file, br);
